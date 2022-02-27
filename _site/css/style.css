@@ -252,3 +252,9 @@ body {
 p {
   font-size: 1.5rem;
 }
+
+.h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
