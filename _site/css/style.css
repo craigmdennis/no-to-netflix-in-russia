@@ -253,6 +253,10 @@ p {
   font-size: 1.5rem;
 }
 
+.container {
+  max-width: 1024px;
+}
+
 .h1 {
   font-size: 3rem;
   margin-bottom: 0.5rem;
